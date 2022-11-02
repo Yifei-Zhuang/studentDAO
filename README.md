@@ -557,31 +557,33 @@
 
 ## 项目运行截图
 
-1. 欢迎页，点击链接钱包按钮连接metamask钱包![](https://raw.githubusercontent.com/workflowBot/image_bed/main/uPic/MDCmkE.png)
+1. 欢迎页，点击链接钱包按钮连接metamask钱包
+
+   ![](https://raw.githubusercontent.com/workflowBot/image_bed/main/uPic/PmKlOv.png)
 
 2. 连接钱包之后，点击领取浙大币空投领取积分，可以看到此时积分变为10000
 
-   ![](https://raw.githubusercontent.com/workflowBot/image_bed/main/uPic/uM0DJr.png)
+   ![](https://raw.githubusercontent.com/workflowBot/image_bed/main/uPic/XXPCid.png)
 
 3. 在提交提案表单处输入提案名，持续时间和描述，点击提交提案按钮进行提案提交
 
-   ![](https://raw.githubusercontent.com/workflowBot/image_bed/main/uPic/SOMQG1.png)
+   ![](https://raw.githubusercontent.com/workflowBot/image_bed/main/uPic/Raeqqu.png)
 
   完成提交之后，会提示提交成功
 
-![](https://raw.githubusercontent.com/workflowBot/image_bed/main/uPic/0XClUx.png)
+![](https://raw.githubusercontent.com/workflowBot/image_bed/main/uPic/3uRRec.png)
 
 4. 点击上面的获取提案列表，可以获取当前提案信息
 
-   ![](https://raw.githubusercontent.com/workflowBot/image_bed/main/uPic/64vPJQ.png)
+   ![](https://raw.githubusercontent.com/workflowBot/image_bed/main/uPic/lf7BIT.png)
 
 5. 在提案持续时间结束之后，点击刷新提案列表刷新提案状态
 
-   ![](https://raw.githubusercontent.com/workflowBot/image_bed/main/uPic/yTZmV2.png)
+   ![](https://raw.githubusercontent.com/workflowBot/image_bed/main/uPic/AzQhRK.png)
 
 6. 当通过的提案数达到3之后，点击添加纪念品即可进行纪念品获取，之后点击查看纪念品即可查看所得到的纪念品。
 
-   ![](https://raw.githubusercontent.com/workflowBot/image_bed/main/uPic/UmQjMD.png)
+   ![](https://raw.githubusercontent.com/workflowBot/image_bed/main/uPic/oUb1zI.png))
 
 
 
