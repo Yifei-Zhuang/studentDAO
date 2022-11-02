@@ -590,6 +590,6 @@
 ## 参考内容
 
 1. [erc 20 doc](https://docs.openzeppelin.com/contracts/2.x/api/token/erc20)
-2. [erc 721 foc](https://docs.openzeppelin.com/contracts/2.x/api/token/erc721)
+2. [erc 721 doc](https://docs.openzeppelin.com/contracts/2.x/api/token/erc721)
 3. [course demo](https://github.com/LBruyne/blockchain-course-demos)
 
